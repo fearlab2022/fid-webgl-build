@@ -7,6 +7,8 @@ The objective of the game is for the player to escape a predator by pressing a b
 The predator begins chasing the player at the beginning of the trial, and will begin "attacking" after some unknown amount of time. When the predator begins attacking, the predator speed increases and the player can no longer press a button to escape. There are three types of predators of increasing difficulty that are color-coded to indicate which type they are.
 
 # How To Play
+*Game Link: https://fearlab2022.github.io/fid-webgl-build/*
+
 The first screen the user is presented with is the login screen:
 
 ![Welcome/Login Screen](InstructionImages/welcome.JPG)
