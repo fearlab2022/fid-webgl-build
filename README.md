@@ -15,16 +15,26 @@ The first screen the user is presented with is the login screen:
 
 You can click the two diagonal arrows in the bottom right hand corner to enter fullscreen, and the ESC key to exit fullscreen. Enter your player PID or username into the text entry box and then click "Start Game" to proceed.
 
+The next screen shows the trial number and the predator type:
+
 ![Predator Screen](InstructionImages/predator.JPG)
 
-The next screen shows the trial number and the predator type. Light yellow is the easiest difficulty, orange is harder, and dark red is the hardest difficulty level. After this screen, the game environment is shown and the player, predator, and escape zone are spawned in.
+Light yellow is the easiest difficulty, orange is harder, and dark red is the hardest difficulty level. After this screen, the game environment is shown and the player, predator, and escape zone are spawned in.
+
+The trial begins!
 
 ![Trial Screen](InstructionImages/spawned.JPG)
 
-The trial begins! The predator will begin moving towards the player at a constant speed, and you can click the SPACE bar at any time (before the predator speeds up and begins attacking) to begin running towards the escape portal. Staying stationary longer before beginning to escape will result in more points, but getting caught results in zero points.
+The predator will begin moving towards the player at a constant speed, and you can click the SPACE bar at any time (before the predator speeds up and begins attacking) to begin running towards the escape portal. Staying stationary longer before beginning to escape will result in more points, but getting caught results in zero points.
+
+The next screen shows the trial outcome-- whether the player escaped or was captured:
 
 ![Trial Outcome Escaped](InstructionImages/escaped.JPG)
 
 ![Trial Outcome Captured](InstructionImages/captured.JPG)
 
-The next screen shows the trial outcome-- whether the player escaped or was captured. The next screen then shows the trial number for the next trial and the predator type, and the process repeats again. The score awarded in the previous trial has been added to the total score and is visible on the top left. This demonstration includes 10 trials total.
+The next screen then shows the trial number for the next trial and the predator type:
+
+![Next Trial Screen](InstructionImages/trial2.JPG)
+
+And the same trial process repeats again. The score awarded in the previous trial has been added to the total score and is visible on the top left. This demonstration includes 10 trials total.
